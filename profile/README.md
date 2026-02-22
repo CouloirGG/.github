@@ -5,7 +5,7 @@
 **Open source tools and games — built for the people.**
 
 [![Website](https://img.shields.io/badge/couloir.gg-0a0b0d?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjggMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE0IDJMNCAyNGg2bDQtMTAgNCAxMGg2TDE0IDJ6IiBmaWxsPSIjNGE5ZWZmIi8+PC9zdmc+&logoColor=white)](https://couloir.gg)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mwNZ8P6q)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/mwNZ8P6q](https://discord.gg/EacSdJtz))
 [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/calschuss)
 [![X](https://img.shields.io/badge/@CouloirGG-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CouloirGG)
 
