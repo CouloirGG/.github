@@ -32,7 +32,7 @@ Free forever. No ads. No tracking. GPL-3.0.
 | Project | Status | Description |
 |---------|--------|-------------|
 | [**LAMA**](https://github.com/CouloirGG/lama) | 🟢 Live | Price checking overlay for Path of Exile 2 |
-| **Spanner** | 🟡 In Dev | Autobattler — scavenge, salvage, rebuild. 7-person team. |
+| **Unnamed** | 🟡 In Dev | Autobattler — scavenge, salvage, rebuild. 7-person team. |
 | **LAMA Mobile** | 🔵 Coming | Companion app — price checking on the go |
 | **Multi-Claude** | 🔵 Coming | Coordinate multiple AI agents for complex workflows |
 
